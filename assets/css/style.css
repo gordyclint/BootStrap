@@ -1,0 +1,47 @@
+body {
+    background-image: url("../images/greek-vase.png");
+    height: 100%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 640px) {
+    #about_me {
+        position: relative !important;
+        top: 0 !important;
+        width: 200px !important;
+    }
+
+    p {
+        position: relative !important;
+        word-wrap: normal !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #about_me {
+        position: relative !important;
+        top: 0 !important;
+        width: 200px !important;
+    }
+
+    p {
+        position: relative !important;
+        word-wrap: normal !important;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    #about_me {
+        position: relative !important;
+        top: 0 !important;
+        width: 200px !important;
+    }
+
+    p {
+        position: relative !important;
+        word-wrap: normal !important;
+        font-size: 12px !important;
+    }
+}
+
+
