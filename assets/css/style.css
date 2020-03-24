@@ -4,6 +4,11 @@ body {
     margin: 0 auto;
 }
 
+.portfolio {
+    height: 18rem;
+    width: 18rem;
+}
+
 @media screen and (max-width: 640px) {
     #about_me {
         position: relative !important;
